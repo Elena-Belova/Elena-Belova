@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova&right_color=lightgrey)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova)
+
+![](https://komarev.com/ghpvc/?username=Elena-Belova&color=lightgrey&style=flat)
+
+![](https://komarev.com/ghpvc/?username=Elena-Belova)
