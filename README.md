@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova)
 
-![](https://komarev.com/ghpvc/?username=Elena-Belova&color=lightgrey&style=flat)
-
-![](https://komarev.com/ghpvc/?username=Elena-Belova)
+![](https://komarev.com/ghpvc/?username=Elena-Belova&style=flat)
