@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova&right_color=lightgrey)
+
+![](https://komarev.com/ghpvc/?username=Elena-Belova&style=flat&color=lightgrey)
 
 <!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova)
-
-![](https://komarev.com/ghpvc/?username=Elena-Belova&style=flat)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova&right_color=lightgrey)
 
 -->
