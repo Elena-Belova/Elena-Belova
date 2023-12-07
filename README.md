@@ -6,7 +6,7 @@
 
 С сентября 2022 года я увлеченно погружаюсь в процесс тестирования программного обеспечения. 
 
-Окончила курс профессиональной переподготовки и продолжаю самостоятельное обучение, развиваю свои навыки и знания в области тестирования ПО, практикуюсь в работе с различными инструментами, тестирую веб-приложения в учебных целях.
+Окончила курс профессиональной переподготовки и продолжаю самостоятельное обучение, развиваю свои навыки и знания в области тестирования ПО, практикуюсь в работе с различными инструментами, тестирую веб-приложения в учебных целях.<br>
 
 Данный профиль был создан для демонстрации моего опыта. 
 Здесь собраны материалы и проекты, реализованные во время обучения и практики, а также проекты, выполненные для личного развития.
@@ -76,6 +76,11 @@
 
 **Технологии и инструменты**
 
+<div align="center"> 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Xmind-FF4500?style=for-the-badge&logo=Xmind&logoColor=white"/> <img src="https://img.shields.io/badge/miro-FFD700?style=for-the-badge&logo=miro&logoColor=050038"/> <br> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/> <img src="https://img.shields.io/badge/swagger-7CFC00?style=for-the-badge&logo=swagger&logoColor=000000"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=0A9EDC"/> <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</div>
+
 <hr>
 
 **Контакты**
@@ -84,11 +89,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Elena-Belova&style=flat&color=lightgrey)
 
-<!--
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Elena-Belova&right_color=lightgrey)
 
--->
 
 <!--
 **Elena-Belova/Elena-Belova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -103,5 +104,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
