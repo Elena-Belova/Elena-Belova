@@ -69,8 +69,8 @@
 - [X] "Основы SQL для программистов" (SkillFactory)
 - [X] "Интерактивный тренажер по SQL" (Stepik)
 
- [Диплом о профессиональной переподготовкe]()
-
+ [Диплом о профессиональной переподготовкe](https://drive.google.com/file/d/1aAA7JftYgCeMLadEWwo6RWiOtNtuqSbK/view?usp=drive_link)<br>
+ [Сертификаты Stepik](https://drive.google.com/drive/folders/1esfg77wYe0BymhshpuemtKUVla_CrwZm?usp=sharing)
 </details>
 
 <hr>
