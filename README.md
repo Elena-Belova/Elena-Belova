@@ -87,6 +87,9 @@
 <summary><b>Контакты</b></summary>
 <br>
 
+[![email](https://img.shields.io/badge/mail-005FF9?style=for-the-badge&logo=maildotru&logoColor=F4C51C)](mailto:qa.elena_belova@mail.ru) [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qa.elena.belova@gmail.com)
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/volobelo)
+
 </details>
 
 <hr>
