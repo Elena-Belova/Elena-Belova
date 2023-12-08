@@ -70,7 +70,7 @@
 - [X] "Интерактивный тренажер по SQL" (Stepik)
 
  [Диплом о профессиональной переподготовкe](https://drive.google.com/file/d/1aAA7JftYgCeMLadEWwo6RWiOtNtuqSbK/view?usp=drive_link)<br>
- [Сертификаты Stepik](https://drive.google.com/drive/folders/1esfg77wYe0BymhshpuemtKUVla_CrwZm?usp=sharing)
+ [Сертификаты Stepik: SQL](https://drive.google.com/file/d/1e5UPqJSdpIWKjToEAiFpQNBJYsv8LJQj/view?usp=drive_link), [Postman](https://drive.google.com/file/d/1mRCXeQSVo5M8CwObADLLsN6SSXENrHA0/view?usp=drive_link), [Тест-Дизайн](https://drive.google.com/file/d/1Dri6Xkr_RCPw4gIfTeK3k3-YatYO4Saa/view?usp=drive_link)
 </details>
 
 <hr>
