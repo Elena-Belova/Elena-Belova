@@ -26,14 +26,14 @@
 <summary><b>Портфолио-QA</b></summary>
 <br>
 
-<kbd>&#8594;</kbd> [Тестовая документация]()
+<kbd>&#8594;</kbd> [Тестовая документация](https://github.com/Elena-Belova/Test-Documentation)
 <pre> Тест-план | Чек-листы | Тест-Кейсы | Баг-репорты | Отчет по тестированию | JIRA </pre>
 
-<kbd>&#8594;</kbd> [Проектирование тестов]()
+<kbd>&#8594;</kbd> [Проектирование тестов](https://github.com/Elena-Belova/Test-Design)
 <pre> Тест-дизайн | Классы эквивалентности | Граничные значения | Доменный анализ 
  Таблицы и диаграммы | Pairwise | Use Case </pre>
 
-<kbd>&#8594;</kbd> [Работа с требованиями]()
+<kbd>&#8594;</kbd> [Работа с требованиями](https://github.com/Elena-Belova/Working-with-requirements)
 <pre> Тестирование | Декомпозиция | MindMap | Use Case | User Story Mapping | Example Mapping </pre>
 
 <kbd>&#8594;</kbd> [Тестирование веб-приложений]()
