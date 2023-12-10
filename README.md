@@ -1,3 +1,6 @@
+<div id="header" align="center">
+   <img src="https://github.com/Elena-Belova/Elena-Belova/assets/148638077/abea2d1a-8a1c-4544-b38d-c0620adc628a" height="170" />
+</div>
 
 <hr>
 
