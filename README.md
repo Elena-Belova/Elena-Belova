@@ -36,23 +36,23 @@
 <kbd>&#8594;</kbd> [Работа с требованиями](https://github.com/Elena-Belova/Working-with-requirements)
 <pre> Тестирование | Декомпозиция | MindMap | Use Case | User Story Mapping | Example Mapping </pre>
 
-<kbd>&#8594;</kbd> [Тестирование веб-приложений]()
+<kbd>&#8594;</kbd> [Тестирование веб-приложений](https://github.com/Elena-Belova/Project-Pet-Home)
 <pre>  Проект "Дом Питомца" | Функциональное | UI | Кроссбраузерное | Кроссплатформенное </pre>
 
-<kbd>&#8594;</kbd> [Тестирование API]()
+<kbd>&#8594;</kbd> [Тестирование API](https://github.com/Elena-Belova/API-Testing)
 <pre> REST API | Postman | Swagger | DevTools | JSON </pre>
 
-<kbd>&#8594;</kbd> [БД SQL]()
+<kbd>&#8594;</kbd> [БД SQL](https://github.com/Elena-Belova/SQL)
 <pre> SQL | MySQL | PostgreSQL | phpMyAdmin | pgAdmin | DBeaver </pre>
 
 <hr>
 
 ### Основы автоматизации тестирования
 
-<kbd>&#8594;</kbd> [Автоматизация тестирования GUI]()
+<kbd>&#8594;</kbd> [Автоматизация тестирования GUI](https://github.com/Elena-Belova/Project-Rostelecom)
 <pre> Проект "Ростелеком" | Python | PyTest | Selenium | PageObject </pre>
 
-<kbd>&#8594;</kbd> [Автоматизация тестирования REST API]()
+<kbd>&#8594;</kbd> [Автоматизация тестирования REST API](https://github.com/Elena-Belova/Autotesting-REST-API-PetFriends)
 <pre> Проект "Pet Friends" | REST API | Python | PyTest | Requests </pre>
 
 </details>
