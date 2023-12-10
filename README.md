@@ -79,6 +79,8 @@
 <summary><b>Мое CV</b></summary>
 <br>
 
+[Резюме](https://drive.google.com/file/d/1XeLRqYvk7rTh_TdRN2nMWfvGPHSWtljU/view?usp=drive_link)
+
 </details>
 
 <hr>
