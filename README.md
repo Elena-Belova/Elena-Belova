@@ -82,7 +82,7 @@
 <summary><b>Мое CV</b></summary>
 <br>
 
-[Резюме](https://drive.google.com/file/d/1z7wimcxuV2HeldB76JoD1V07UfFcMFEh/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/12swC84xvfStyA7z363W9FUv9PfHXFQt_/view?usp=sharing)
 
 </details>
 
@@ -105,19 +105,3 @@
 
 ![](https://komarev.com/ghpvc/?username=Elena-Belova&style=flat&color=lightgrey)
 
-
-
-<!--
-**Elena-Belova/Elena-Belova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
