@@ -82,7 +82,7 @@
 <summary><b>Мое CV</b></summary>
 <br>
 
-[Резюме](https://drive.google.com/file/d/12swC84xvfStyA7z363W9FUv9PfHXFQt_/view?usp=sharing)
+[Резюме]()
 
 </details>
 
