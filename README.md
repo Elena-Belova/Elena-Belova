@@ -94,7 +94,7 @@
 <br>
 
 [![email](https://img.shields.io/badge/mail-005FF9?style=flat&logo=maildotru&logoColor=F4C51C)](mailto:qa.elena_belova@mail.ru) [![gmail](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:qa.elena.belova@gmail.com)
-[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/volobelo)
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ElenaBelovaV)
 
 </details>
 
